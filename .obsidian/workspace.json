@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Cuisine/Tableau de cuisson des légumineuses et céréales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Tableau de cuisson des légumineuses et céréales"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Cuisine/Tableau de cuisson des légumineuses et céréales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Readme"
+              "title": "Backlinks for Tableau de cuisson des légumineuses et céréales"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Cuisine/Tableau de cuisson des légumineuses et céréales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Readme"
+              "title": "Outgoing links from Tableau de cuisson des légumineuses et céréales"
             }
           },
           {
@@ -170,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Cuisine/Tableau de cuisson des légumineuses et céréales.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Readme"
+              "title": "Outline of Tableau de cuisson des légumineuses et céréales"
             }
           }
         ]
@@ -185,18 +185,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "a22ca1b56c03fa99",
   "lastOpenFiles": [
-    "Template.md",
     "Readme.md",
+    "Cuisine/Tableau de cuisson des légumineuses et céréales.md",
+    "Template.md",
     "Untitled 1.md",
     "Soin, santé, urgence",
     "Collectif, prise de décision et techniques d'animation",
